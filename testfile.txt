@@ -1,0 +1,5 @@
+
+This will be output to testfile.txt using parent
+hello parent
+This will be output to testfile.txt using child
+hello child
